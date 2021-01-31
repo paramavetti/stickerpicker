@@ -1,7 +1,8 @@
 {
   "packs": [
     "vetti-test-pack.json",
-    "vetti-sticker-pack.json"
+    "vetti-sticker-pack.json",
+    "KollyWoodStickers.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
