@@ -2,7 +2,15 @@
   "packs": [
     "vetti-test-pack.json",
     "vetti-sticker-pack.json",
-    "KollyWoodStickers.json"
+    "KollyWoodStickers.json",
+    "Koundamani-Stickers.json",
+    "Mottai-Rajender.json",
+    "Santhanam-Stickers.json",
+    "SK_Stickers.json",
+    "Soori_Stickers.json",
+    "Vadivel_Stickers.json",
+    "Vivek_Stickers.json",
+    "Yogi_Babu_Stickers.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
